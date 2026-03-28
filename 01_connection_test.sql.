@@ -1,0 +1,2 @@
+S-- Testing SQL Environment
+SELECT 'SQL for AI Journey Started' AS Status, CURRENT_DATE AS Start_Date;
